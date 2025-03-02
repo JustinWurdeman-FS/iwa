@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.5rem;
+}
+h1 {
+  color: red;
+  text-align: center;
+  background-color: yellow;
+  width: 15rem;
+  padding: 10px;
+  border: 5px solid;
+  margin: auto;
+  text-shadow: 5px 5px 5px blue;
+  border-radius: 1.5rem;
+}
+img {
+  display: block;
+  margin: auto;
+}
+
+#wrapper {
+  width: 90%;
+  margin: auto;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+  font-weight: normal;
+  background-color: red;
+  padding: 10px;
+}
+h3 {
+  color: rgb(21, 255, 0);
+  background-color: red;
+  font-weight: normal;
+  padding: 10px;
+}
+h4 {
+  color: rgb(43, 255, 0);
+  background-color: red;
+  font-weight: normal;
+  padding: 10px;
+}
+ul {
+  font-weight: bold;
+  font-size: medium;
+}
+p {
+  line-height: 2;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: gold;
+}
+/* First every CSS creation */
