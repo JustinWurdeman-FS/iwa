@@ -78,26 +78,3 @@ a:hover {
   color: gold;
 }
 /* First every CSS creation */
-/* forms Styles */
-form {
-  border: 1px solid crimson;
-  padding: 1rem;
-}
-
-form > div {
-  margin-bottom: 1rem;
-}
-
-label {
-  display: block;
-  margin-bottom: 0.5rem;
-}
-
-form > button {
-  background-color: darkred;
-  color: yellow;
-  border: none;
-  padding: 0.47rem 2rem;
-  font-size: 1rem;
-  cursor: pointer;
-}
